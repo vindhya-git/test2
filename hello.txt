@@ -8,7 +8,7 @@ Home: 444-444-4444
 Female  DOB: 04/04/1950
 0000-44444
 Ins: Commercial 8927
-                                                     
+                        
 Patient Information
 Name: Monica Smith
 Home Phone: 0904342323
