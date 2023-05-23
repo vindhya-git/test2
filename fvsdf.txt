@@ -1,6 +1,6 @@
 github-sandeep
-githubsandeep
-Followed the link
+githubsandeep1
+Followed the l1ink
 https://sed-confluence.broadcom.net/pages/viewpage.action?spaceKey=CASB&title=GCP+%3A+Remote+Debugging+using+Telepresence
 
 GCR : Google Container Registry
